@@ -129,8 +129,40 @@ h3{
     margin-left: 10%;
 }
 .last-section-image img{
-    width: 50%;
+    width: 60%;
     border-radius: 10px;
 }
+html,body{
+    width: 100% ;
+    height: 100%;
+    
+}
+.conclusion-and-footer{
+    margin: 0;
+    width: 100%;
+    
+    background-color: black;
+}
+.conclusion-p{
+    font-size: 35px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    
+    margin-left: 5%;
+    
+    background-color: rgba(255, 255, 255, 0.904)62)62);
 
+    
+}
+footer{
+    color: rgba(255, 255, 255, 0.822);
+    margin-left: 35%;
+}
+.conclusion-f{
+    padding-bottom: 2%;
+}
+.red-clr{
+    color: red;
+}
     
