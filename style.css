@@ -21,8 +21,9 @@ p{
 .profile-image{
     border-radius: 250px;
 }
-#first-section{
+.section-flex{
     display: flex;
+    margin-top: 100px;
 }
 .half-width{
     width: 50%;
@@ -46,6 +47,14 @@ h2{
     margin-left: 35%;
     color: rgb(0, 0, 54);
     margin-top: 50px;
+}
+.section-3{
+    font-size:2.5em;
+    font-family: 'Rubik', sans-serif; 
+    margin-left: 2%;
+    color: rgb(0, 0, 54);
+    margin-top: 50px;
+
 }
 .display-flex{
     display: flex;
@@ -82,4 +91,23 @@ h3{
 .goal{
     background-color: rgba(248, 128, 47, 0.329);
     border-radius: 20px;
+}
+.half-width-section3img{
+    width: 40%;
+    margin-left: 10%;
+}
+.half-width-section3p{
+    width: 60%;
+   
+}
+.half-width-section3img img{
+    width: 80%;
+}
+#third-heading{
+    font-size:2.5em;
+    font-family: 'Rubik', sans-serif; 
+    margin-left: 2%;
+    color: rgb(0, 0, 54);
+    margin-top: 50px;
+
 }
