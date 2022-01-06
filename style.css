@@ -17,6 +17,7 @@ p{
     margin-right:10% ;
     margin-top: 10%;
     margin-bottom: 10%;
+    color: rgba(0, 0, 0, 0.623);
 }
 .profile-image{
     border-radius: 250px;
@@ -97,7 +98,9 @@ h3{
     margin-left: 10%;
 }
 .half-width-section3p{
+    font-size:1.2em ;
     width: 60%;
+    color: rgba(0, 0, 0, 0.63);
    
 }
 .half-width-section3img img{
@@ -120,5 +123,14 @@ h3{
 .half-width-section4img{
     width: 40%;
     padding-top: 50px;
-}   
+}  
+.last-section-image{
+    width: 40%;
+    margin-left: 10%;
+}
+.last-section-image img{
+    width: 50%;
+    border-radius: 10px;
+}
+
     
