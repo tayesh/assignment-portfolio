@@ -1,0 +1,85 @@
+#intro-heading{
+        
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(255, 72, 0),rgb(255, 60, 0));
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+h1{
+    font-size: 4em;
+    margin-bottom: 0;
+}
+.orange-clr{
+    color: rgba(252, 156, 31, 0.863);
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    margin-right:10% ;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.profile-image{
+    border-radius: 250px;
+}
+#first-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+}
+.half-width img{
+    margin-top: 10%;
+    height: 70%;
+}
+a{
+    background-color: rgba(255, 71, 71, 0.959);
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 3% 9% 3% 9%;
+    color: white;
+    border-radius: 5px;
+}
+h2{
+    font-size:2.5em;
+    font-family: 'Rubik', sans-serif; 
+    margin-left: 35%;
+    color: rgb(0, 0, 54);
+    margin-top: 50px;
+}
+.display-flex{
+    display: flex;
+    margin-left:8% ;
+}
+.one-third-width{
+    width: 25%;
+    margin-left: 3%;
+    
+}
+h3{
+    margin-left: 15px;
+    font-family:'Rubik', sans-serif;
+    font-size: 2em;
+    
+}
+.second-p{
+    width: 80%;
+    margin-left: 15px;
+    text-align: justify;
+}
+.one-third-width img{
+    margin-left:5px ;
+    width: 50%;
+}
+.mission{
+    background-color: rgba(129, 219, 219, 0.253);
+    border-radius: 20px;
+}
+.vision{
+    background-color: rgba(219, 129, 171, 0.212);
+    border-radius: 20px;
+}
+.goal{
+    background-color: rgba(248, 128, 47, 0.329);
+    border-radius: 20px;
+}
